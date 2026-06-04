@@ -40,6 +40,11 @@ The purpose of this lab is to build a long-term learning archive that supports:
 - [Writing](categories/05-writing.md)
 - [Grammar](categories/06-grammar.md)
 - [Study Methods](categories/07-study-methods.md)
+  
+## Research Workflow
+
+- [Inbox](inbox.md) — Temporary list of learning resources waiting for review.
+- [Evaluation Framework](evaluation-framework.md) — Criteria for evaluating English learning, exam preparation, and skill acquisition resources.
 
 ## Initial Resource Set
 
