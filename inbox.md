@@ -6,74 +6,113 @@ Temporary list of learning, English, exam preparation, and skill acquisition res
 
 ### English-level-up-tips
 
-> **Status / 状态:** **Deep Study / 深度研究**  
-> **Score / 评分:** **4/5**  
-> **Category / 分类:** **English Learning / Self-Learning Guide / AI-assisted English Learning**  
-> **Source / 来源:** **GitHub**  
-> **Link / 链接:** https://github.com/byoungd/English-level-up-tips  
-> **License / 许可:** **CC BY-NC 4.0**; declared in README; no standalone LICENSE file found.
+#### English Version
 
-#### Why I Saved It / 保存原因
+> **Status:** **Deep Study**  
+> **Score:** **4/5**  
+> **Category:** **English Learning / Self-Learning Guide / AI-assisted English Learning**  
+> **Source:** **GitHub**  
+> **Link:** https://github.com/byoungd/English-level-up-tips  
+> **License:** **CC BY-NC 4.0**; declared in README; no standalone LICENSE file found.
 
-**EN:** A highly popular English learning guide with structured sections on vocabulary, listening, reading, speaking, writing, and AI-assisted practice.
+##### Why I Saved It
 
-**中文：** 这是一个热度很高的英语学习指南，内容覆盖词汇、听力、阅读、口语、写作和 AI 辅助练习。
+A highly popular English learning guide with structured sections on vocabulary, listening, reading, speaking, writing, and AI-assisted practice.
 
-#### Use Case / 用途
+##### Use Case
 
-**EN:** Use as a reference for building a long-term English learning roadmap and AI-supported practice workflow.
+Use as a reference for building a long-term English learning roadmap and AI-supported practice workflow.
 
-**中文：** 用作英语长期学习路线图参考，帮助设计听说读写、词汇积累和 AI 辅助练习流程。
+##### Strengths
 
-#### Strengths / 优点
+Comprehensive structure, strong community attention, Chinese-friendly explanations, and practical ideas for turning AI tools into learning workflows.
 
-**EN:** Comprehensive structure, strong community attention, Chinese-friendly explanations, and practical ideas for turning AI tools into learning workflows.
+##### Limitations
 
-**中文：** 覆盖面完整，适合中文学习者理解；项目热度高；把英语学习方法、技能训练和 AI 工具使用结合在一起。
+The guide has a strong personal voice, includes some promotional material, and should be filtered before becoming a personal routine.
 
-#### Limitations / 局限
+##### Relevance to Specularis
 
-**EN:** The guide has a strong personal voice, includes some promotional material, and should be filtered before becoming a personal routine.
+**Level:** **HIGH**
 
-**中文：** 内容带有明显个人经验色彩，并包含部分推广信息；具体方法需要结合个人水平、目标和考试场景重新筛选。
+Strong fit because it combines English learning strategy, self-learning methodology, and modern AI-assisted training loops.
 
-#### Relevance to Specularis / 与 Specularis 的相关性
+##### My Evaluation
 
-**Level / 程度:** **HIGH / 高**
+**Rating:** **Strong learning resource**
 
-**EN:** Strong fit because it combines English learning strategy, self-learning methodology, and modern AI-assisted training loops.
+Worth deep study, but best treated as a reference framework rather than source material to copy.
 
-**中文：** 它能为 Specularis 的英语学习、学习方法和 AI 辅助训练体系提供参考框架。
+##### Integration Potential
 
-#### My Evaluation / 我的评价
+**Potential:** **HIGH**
 
-**Rating / 评级:** **Strong learning resource / 优质学习资源**
+The roadmap can be mapped into separate Specularis routines for vocabulary review, listening input, speaking practice, writing feedback, and AI-assisted drills.
 
-**EN:** Worth deep study, but best treated as a reference framework rather than source material to copy.
+##### Next Action
 
-**中文：** 值得深入研究。它的价值不在于照搬内容，而在于提炼学习逻辑，并转化为 Specularis 自己的训练流程。
+**Priority:** **HIGH**
 
-#### Integration Potential / 集成潜力
+Keep it in English Learning, review the AI, listening, and speaking sections first, and extract reusable routines into original Specularis notes.
 
-**Potential / 潜力:** **HIGH / 高**
+##### Notes
 
-**EN:** The roadmap can be mapped into separate Specularis routines for vocabulary review, listening input, speaking practice, writing feedback, and AI-assisted drills.
+Do not copy the project text. Link to the original repository, credit the author, and respect the non-commercial license terms. GitHub metadata checked on 2026-06-04: about 51.6k stars and 5.3k forks.
 
-**中文：** 可以拆成词汇复习、听力输入、口语训练、写作反馈和 AI 练习模板等模块，逐步整合进 Specularis。
+---
 
-#### Next Action / 下一步
+#### 中文版
 
-**Priority / 优先级:** **HIGH / 高**
+> **状态：** **深度研究**  
+> **评分：** **4/5**  
+> **分类：** **英语学习 / 自学指南 / AI 辅助英语学习**  
+> **来源：** **GitHub**  
+> **链接：** https://github.com/byoungd/English-level-up-tips  
+> **许可：** **CC BY-NC 4.0**；README 中声明采用该协议；未发现独立 LICENSE 文件。
 
-**EN:** Keep it in English Learning, review the AI, listening, and speaking sections first, and extract reusable routines into original Specularis notes.
+##### 保存原因
 
-**中文：** 保留在 English Learning 分类，优先研究 AI、听力和口语章节，提炼可执行练习流程。
+这是一个热度很高的英语学习指南，内容覆盖词汇、听力、阅读、口语、写作和 AI 辅助练习。
 
-#### Notes / 备注
+##### 用途
 
-**EN:** Do not copy the project text. Link to the original repository, credit the author, and respect the non-commercial license terms. GitHub metadata checked on 2026-06-04: about 51.6k stars and 5.3k forks.
+用作英语长期学习路线图参考，帮助设计听说读写、词汇积累和 AI 辅助练习流程。
 
-**中文：** 已检查项目名称、简介、README 概要、许可声明、stars、forks 和主要内容方向。只引用原始链接，不复制正文内容。
+##### 优点
+
+覆盖面完整，适合中文学习者理解；项目热度高；把英语学习方法、技能训练和 AI 工具使用结合在一起。
+
+##### 局限
+
+内容带有明显个人经验色彩，并包含部分推广信息；具体方法需要结合个人水平、目标和考试场景重新筛选。
+
+##### 与 Specularis 的相关性
+
+**程度：** **高**
+
+它能为 Specularis 的英语学习、学习方法和 AI 辅助训练体系提供参考框架。
+
+##### 我的评价
+
+**评级：** **优质学习资源**
+
+值得深入研究。它的价值不在于照搬内容，而在于提炼学习逻辑，并转化为 Specularis 自己的训练流程。
+
+##### 集成潜力
+
+**潜力：** **高**
+
+可以拆成词汇复习、听力输入、口语训练、写作反馈和 AI 练习模板等模块，逐步整合进 Specularis。
+
+##### 下一步
+
+**优先级：** **高**
+
+保留在 English Learning 分类，优先研究 AI、听力和口语章节，提炼可执行练习流程。
+
+##### 备注
+
+已检查项目名称、简介、README 概要、许可声明、stars、forks 和主要内容方向。只引用原始链接，不复制正文内容。
 
 ## Review Status
 
