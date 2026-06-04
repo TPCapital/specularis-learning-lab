@@ -52,6 +52,7 @@ The purpose of this lab is to build a long-term learning archive that supports:
 | Writing | [Purdue OWL](categories/05-writing.md) | Academic writing, sentence structure, grammar, and formal expression |
 | Grammar | [Grammarly Grammar Guide](categories/06-grammar.md) | Grammar rules, common errors, punctuation, and writing clarity |
 | Study Methods | [Anki](categories/07-study-methods.md) | Spaced repetition, active recall, vocabulary memory, and long-term retention |
+
 ## Resource Evaluation Template
 
 Use this template when adding a new learning resource, course, method, or tool.
